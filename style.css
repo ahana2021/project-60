@@ -1,0 +1,82 @@
+body{
+    text-align:center;
+    background-image:linear-gradient(#FF7043,#FFD54F);
+  }
+    .menu {
+      position: fixed;
+      width: 100%;
+      margin-top: 0px;
+      top: 0px;
+      z-index: 10;
+    
+     
+  }
+  img{
+     border-radius: 50%;
+    width:200px;
+    
+  }
+  .links{
+   
+      display: inline;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-family: fantasy;
+      font-size: 20px;
+  }
+  .links:hover{
+    text-decoration:none;
+    background-color:#FFFF;
+  
+  }
+  h3{
+    font-family: 'Yusei Magic', sans-serif;
+    color:#0277BD;
+    font-size:20px;
+  }
+  section{
+    margin-left:20px;
+    margin-right:20px;
+  }
+  html{
+    scroll-behavior:smooth;
+  }
+  #writings a
+  {
+  text-shadow: none !important;
+  text-decoration: underline !important;
+  color: blue !important;
+  }
+  
+  #contact
+  {
+  background: firebrick;
+  }
+  
+  #contact iframe
+  {
+      width: 100%;
+  }
+  
+  .contact_1 h3
+  {
+      display: inline;
+  }
+  .contact_1 a
+  {
+      color: white;
+      text-shadow: none;
+  }
+  h2{
+  font-family: 'Gorditas', cursive;
+    font-size:20px;
+  }
+  img{
+    transition: transform .2s;
+    border: 5px solid #AAAAAA;
+  }
+  img:hover{
+    transform:scale(0.9);
+  }
+  
+  
